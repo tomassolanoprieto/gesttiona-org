@@ -1,0 +1,37 @@
+{
+  "title": "Nuestras Propiedades",
+  "subtitle": "Encuentra tu hogar ideal entre nuestra selección de propiedades",
+  "search": {
+    "location": "Ubicación",
+    "propertyType": "Tipo de Propiedad",
+    "operationType": "Tipo de Operación",
+    "search": "Buscar",
+    "allLocations": "Todas las zonas",
+    "allTypes": "Todos los tipos",
+    "buyOrRent": "Compra o Alquiler",
+    "buy": "Compra",
+    "rent": "Alquiler"
+  },
+  "filters": {
+    "price": "Precio",
+    "size": "Tamaño",
+    "bedrooms": "Habitaciones",
+    "bathrooms": "Baños",
+    "features": "Características",
+    "apply": "Aplicar Filtros"
+  },
+  "property": {
+    "features": {
+      "bedrooms": "Habitaciones",
+      "bathrooms": "Baños",
+      "size": "Metros cuadrados",
+      "parking": "Parking",
+      "garden": "Jardín",
+      "pool": "Piscina",
+      "terrace": "Terraza"
+    },
+    "contact": "Contactar sobre esta propiedad",
+    "schedule": "Programar visita",
+    "share": "Compartir"
+  }
+}

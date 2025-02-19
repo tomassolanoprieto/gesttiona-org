@@ -1,0 +1,23 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirect /admin to /admin/index.html
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+
+# Serve content files as JSON
+[[redirects]]
+  from = "/content/**/index.json"
+  to = "/.netlify/functions/get-content"
+  status = 200

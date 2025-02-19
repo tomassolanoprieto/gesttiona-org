@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "title": "Tu Hogar Ideal en Valencia",
+    "subtitle": "En Gesttiona, nos especializamos en hacer realidad tus sueños inmobiliarios. Descubre propiedades exclusivas y servicios personalizados.",
+    "viewProperties": "Ver Propiedades en Idealista",
+    "contact": "Contactar"
+  },
+  "categories": {
+    "title": "Explora por Categorías",
+    "subtitle": "Descubre nuestra amplia selección de propiedades organizadas por categorías",
+    "types": {
+      "apartments": "Pisos",
+      "houses": "Casas",
+      "villas": "Chalets",
+      "penthouses": "Áticos",
+      "commercial": "Locales",
+      "offices": "Oficinas",
+      "industrial": "Naves",
+      "buildings": "Edificios"
+    },
+    "descriptions": {
+      "apartments": "Apartamentos y pisos en las mejores zonas",
+      "houses": "Casas unifamiliares y adosados",
+      "villas": "Chalets y villas de lujo",
+      "penthouses": "Áticos con terrazas y vistas panorámicas",
+      "commercial": "Locales comerciales en ubicaciones estratégicas",
+      "offices": "Espacios de trabajo modernos y funcionales",
+      "industrial": "Naves industriales y almacenes",
+      "buildings": "Edificios completos para inversión"
+    }
+  },
+  "whyChooseUs": {
+    "title": "¿Por Qué Elegirnos?",
+    "description": "En Gesttiona nos diferenciamos por nuestro compromiso con la excelencia y la satisfacción del cliente. Nuestra experiencia y profesionalidad nos avalan como tu mejor opción en el mercado inmobiliario.",
+    "experience": {
+      "title": "Experiencia Comprobada",
+      "description": "Años de experiencia en el mercado inmobiliario valenciano"
+    },
+    "service": {
+      "title": "Atención Personalizada",
+      "description": "Servicio adaptado a tus necesidades específicas"
+    },
+    "imageAlt": "Interior moderno"
+  },
+  "valuation": {
+    "title": "¿Quieres Saber Cuánto Vale tu Vivienda?",
+    "subtitle": "Con la valoración online gratuita de tu vivienda, puedes saber el precio de venta y el precio de alquiler en tan solo 3 pasos.",
+    "steps": {
+      "location": {
+        "title": "Ubicación",
+        "description": "Ubica el inmueble para poder empezar la tasación online"
+      },
+      "description": {
+        "title": "Descripción",
+        "description": "Describe tu vivienda para ajustar la valoración"
+      },
+      "result": {
+        "title": "Resultado",
+        "description": "Obtén tu tasación online o personalízala con un profesional"
+      }
+    },
+    "disclaimer": "Esta valoración online gratuita no es ni sustituye una tasación oficial admitida por un banco"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Descubre por qué nuestros clientes confían en nosotros para sus necesidades inmobiliarias",
+    "shareExperience": "Comparte tu experiencia",
+    "clients": {
+      "1": {
+        "name": "María García",
+        "role": "Compradora",
+        "content": "Excelente servicio y atención personalizada. Encontraron exactamente lo que buscábamos en tiempo récord."
+      },
+      "2": {
+        "name": "Juan Martínez",
+        "role": "Vendedor",
+        "content": "Profesionalidad y eficiencia en todo el proceso de venta. Superaron nuestras expectativas."
+      },
+      "3": {
+        "name": "Ana Rodríguez",
+        "role": "Inversora",
+        "content": "Su conocimiento del mercado y asesoramiento fueron clave para tomar las mejores decisiones de inversión."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description1": "Gesttiona es tu empresa inmobiliaria de confianza en la Comunidad Valenciana. Ofrecemos un abanico integral de servicios personalizados para compradores, vendedores e inversores, guiándolos con experiencia y profesionalismo hacia el logro de sus objetivos inmobiliarios.",
+    "description2": "Sea que busques comprar, vender o invertir en una propiedad, nuestro equipo de profesionales te acompañará en cada paso del camino, asegurando una experiencia satisfactoria y resultados exitosos.",
+    "imageAlt": "Espacio de trabajo Gesttiona"
+  },
+  "blog": {
+    "title": "Últimas Noticias",
+    "subtitle": "Mantente informado sobre las últimas tendencias y noticias del mercado inmobiliario",
+    "readMore": "Leer más",
+    "viewAll": "Ver todas las noticias"
+  },
+  "cta": {
+    "title": "¿Listo para Encontrar tu Hogar Ideal?",
+    "subtitle": "Nuestro equipo está preparado para ayudarte a hacer realidad tus sueños inmobiliarios",
+    "button": "Contacta con Nosotros"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Our Properties",
+  "subtitle": "Find your ideal home among our selection of properties",
+  "search": {
+    "location": "Location",
+    "propertyType": "Property Type",
+    "operationType": "Operation Type",
+    "search": "Search",
+    "allLocations": "All locations",
+    "allTypes": "All types",
+    "buyOrRent": "Buy or Rent",
+    "buy": "Buy",
+    "rent": "Rent"
+  },
+  "filters": {
+    "price": "Price",
+    "size": "Size",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "features": "Features",
+    "apply": "Apply Filters"
+  },
+  "property": {
+    "features": {
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "size": "Square meters",
+      "parking": "Parking",
+      "garden": "Garden",
+      "pool": "Pool",
+      "terrace": "Terrace"
+    },
+    "contact": "Contact about this property",
+    "schedule": "Schedule viewing",
+    "share": "Share"
+  }
+}

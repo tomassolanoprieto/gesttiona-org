@@ -1,0 +1,20 @@
+{
+  "title": "Our Blog",
+  "subtitle": "Stay informed about the latest trends and news in the real estate market",
+  "readMore": "Read more",
+  "categories": {
+    "all": "All",
+    "market": "Real Estate Market",
+    "advice": "Advice",
+    "news": "News",
+    "trends": "Trends",
+    "investment": "Investment"
+  },
+  "post": {
+    "publishedOn": "Published on",
+    "author": "Author",
+    "category": "Category",
+    "share": "Share",
+    "relatedPosts": "Related Posts"
+  }
+}

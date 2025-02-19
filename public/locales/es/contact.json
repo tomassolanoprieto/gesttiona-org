@@ -1,0 +1,24 @@
+{
+  "title": "Contacta con Nosotros",
+  "subtitle": "Estamos aquí para ayudarte. Ponte en contacto con nuestro equipo de expertos",
+  "form": {
+    "fullName": "Nombre completo",
+    "email": "Email",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "Mensaje enviado correctamente",
+    "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo."
+  },
+  "info": {
+    "phone": "Teléfono",
+    "email": "Email",
+    "address": "Dirección",
+    "schedule": {
+      "title": "Horario",
+      "attention": "Atención al Cliente",
+      "office": "Horario de Oficina"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Our Services",
+  "subtitle": "Comprehensive real estate solutions tailored to your needs",
+  "services": {
+    "realEstate": {
+      "title": "Real Estate Brokerage",
+      "description": "We facilitate property buying and selling, efficiently connecting buyers and sellers in a professional manner."
+    },
+    "valuation": {
+      "title": "Valuation and Appraisal",
+      "description": "Professional and accurate market value assessment of your property, backed by detailed current market analysis."
+    },
+    "marketing": {
+      "title": "Real Estate Marketing",
+      "description": "Effective and modern strategies to promote your property, including digital and traditional marketing."
+    },
+    "legal": {
+      "title": "Legal Advisory",
+      "description": "Complete management of legal procedures and documentation, ensuring secure and transparent transactions."
+    },
+    "financing": {
+      "title": "Financing",
+      "description": "Expert advice on real estate financing options, working with the best banks and financial institutions."
+    },
+    "renovation": {
+      "title": "Renovation Management",
+      "description": "Professional coordination and supervision of renovation projects, ensuring quality and deadline compliance."
+    }
+  }
+}

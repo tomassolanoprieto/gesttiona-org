@@ -1,0 +1,1 @@
+<command>curl -o public/logo.png https://raw.githubusercontent.com/stackblitz/stackblitz-codeflow/main/examples/vite-react-ts/public/logo.png</command>

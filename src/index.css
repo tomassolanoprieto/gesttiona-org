@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-orange-600 .fill-current {
+  fill: #ea580c;
+}
+
+.bg-gray-50 .fill-current {
+  fill: #f9fafb;
+}
+
+.bg-white .fill-current {
+  fill: #ffffff;
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Nuestro Blog",
+  "subtitle": "Mantente informado sobre las últimas tendencias y noticias del mercado inmobiliario",
+  "readMore": "Leer más",
+  "categories": {
+    "all": "Todas",
+    "market": "Mercado Inmobiliario",
+    "advice": "Consejos",
+    "news": "Noticias",
+    "trends": "Tendencias",
+    "investment": "Inversión"
+  },
+  "post": {
+    "publishedOn": "Publicado el",
+    "author": "Autor",
+    "category": "Categoría",
+    "share": "Compartir",
+    "relatedPosts": "Artículos relacionados"
+  }
+}

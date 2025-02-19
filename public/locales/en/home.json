@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "title": "Your Ideal Home in Valencia",
+    "subtitle": "At Gesttiona, we specialize in making your real estate dreams come true. Discover exclusive properties and personalized services.",
+    "viewProperties": "View Properties on Idealista",
+    "contact": "Contact"
+  },
+  "categories": {
+    "title": "Explore by Categories",
+    "subtitle": "Discover our wide selection of properties organized by categories",
+    "types": {
+      "apartments": "Apartments",
+      "houses": "Houses",
+      "villas": "Villas",
+      "penthouses": "Penthouses",
+      "commercial": "Commercial",
+      "offices": "Offices",
+      "industrial": "Industrial",
+      "buildings": "Buildings"
+    },
+    "descriptions": {
+      "apartments": "Apartments and flats in the best areas",
+      "houses": "Single-family homes and townhouses",
+      "villas": "Luxury villas and chalets",
+      "penthouses": "Penthouses with terraces and panoramic views",
+      "commercial": "Commercial premises in strategic locations",
+      "offices": "Modern and functional workspaces",
+      "industrial": "Industrial warehouses and storage facilities",
+      "buildings": "Complete buildings for investment"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "description": "At Gesttiona, we stand out for our commitment to excellence and customer satisfaction. Our experience and professionalism make us your best choice in the real estate market.",
+    "experience": {
+      "title": "Proven Experience",
+      "description": "Years of experience in the Valencian real estate market"
+    },
+    "service": {
+      "title": "Personalized Attention",
+      "description": "Service tailored to your specific needs"
+    },
+    "imageAlt": "Modern interior"
+  },
+  "valuation": {
+    "title": "Want to Know How Much Your Property is Worth?",
+    "subtitle": "With our free online valuation, you can know the sale and rental price in just 3 steps.",
+    "steps": {
+      "location": {
+        "title": "Location",
+        "description": "Locate the property to start the online valuation"
+      },
+      "description": {
+        "title": "Description",
+        "description": "Describe your property to adjust the valuation"
+      },
+      "result": {
+        "title": "Result",
+        "description": "Get your online valuation or customize it with a professional"
+      }
+    },
+    "disclaimer": "This free online valuation is not and does not replace an official bank-approved appraisal"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Discover why our clients trust us for their real estate needs",
+    "shareExperience": "Share your experience",
+    "clients": {
+      "1": {
+        "name": "Maria Garcia",
+        "role": "Buyer",
+        "content": "Excellent service and personalized attention. They found exactly what we were looking for in record time."
+      },
+      "2": {
+        "name": "Juan Martinez",
+        "role": "Seller",
+        "content": "Professionalism and efficiency throughout the sales process. They exceeded our expectations."
+      },
+      "3": {
+        "name": "Ana Rodriguez",
+        "role": "Investor",
+        "content": "Their market knowledge and advice were key to making the best investment decisions."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "Gesttiona is your trusted real estate company in the Valencian Community. We offer a comprehensive range of personalized services for buyers, sellers, and investors, guiding them with experience and professionalism towards achieving their real estate goals.",
+    "description2": "Whether you're looking to buy, sell, or invest in a property, our team of professionals will accompany you every step of the way, ensuring a satisfactory experience and successful results.",
+    "imageAlt": "Gesttiona workspace"
+  },
+  "blog": {
+    "title": "Latest News",
+    "subtitle": "Stay informed about the latest trends and news in the real estate market",
+    "readMore": "Read more",
+    "viewAll": "View all news"
+  },
+  "cta": {
+    "title": "Ready to Find Your Ideal Home?",
+    "subtitle": "Our team is ready to help you make your real estate dreams come true",
+    "button": "Contact Us"
+  }
+}

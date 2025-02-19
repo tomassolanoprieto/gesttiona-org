@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Your trusted real estate company in the Valencian Community. Experts in making your real estate dreams come true.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved",
+    "funding": "Project funded by the European Union - NextGenerationEU. Recovery, Transformation and Resilience Plan"
+  }
+}

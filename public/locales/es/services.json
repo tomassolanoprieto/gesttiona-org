@@ -1,0 +1,30 @@
+{
+  "title": "Nuestros Servicios",
+  "subtitle": "Soluciones inmobiliarias integrales adaptadas a tus necesidades",
+  "services": {
+    "realEstate": {
+      "title": "Intermediación Inmobiliaria",
+      "description": "Facilitamos la compra y venta de propiedades, conectando compradores y vendedores de manera eficiente y profesional."
+    },
+    "valuation": {
+      "title": "Valoración y Tasación",
+      "description": "Evaluación profesional y precisa del valor de mercado de tu propiedad, respaldada por análisis detallados del mercado actual."
+    },
+    "marketing": {
+      "title": "Marketing Inmobiliario",
+      "description": "Estrategias efectivas y modernas para promocionar tu propiedad, incluyendo marketing digital y tradicional."
+    },
+    "legal": {
+      "title": "Asesoramiento Legal",
+      "description": "Gestión completa de trámites y documentación legal, asegurando transacciones seguras y transparentes."
+    },
+    "financing": {
+      "title": "Financiamiento",
+      "description": "Asesoramiento experto en opciones de financiación inmobiliaria, trabajando con los mejores bancos y entidades financieras."
+    },
+    "renovation": {
+      "title": "Gestión de Reformas",
+      "description": "Coordinación y supervisión profesional de proyectos de reforma, garantizando calidad y cumplimiento de plazos."
+    }
+  }
+}
