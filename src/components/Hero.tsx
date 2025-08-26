@@ -12,7 +12,7 @@ export function Hero() {
   const { t } = useTranslation('home');
 
   const handleViewProperties = () => {
-    window.open('https://www.idealista.com/pro/gestiona/', '_blank');
+    window.open('https://propiedades.gesttiona.org', '_blank');
   };
 
   return (
@@ -42,7 +42,7 @@ export function Hero() {
                 onClick={handleViewProperties}
                 className="bg-orange-600 hover:bg-orange-700 text-white px-8 py-4 rounded-lg font-semibold transition-all transform hover:translate-y-[-2px] flex items-center group"
               >
-                {t('hero.viewProperties')}
+                Ver Propiedades
                 <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1" />
               </button>
               <button
