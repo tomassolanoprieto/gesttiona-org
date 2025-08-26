@@ -5,7 +5,7 @@ import { featuredProperties } from '../data/properties';
 
 export function FeaturedProperties() {
   const handleViewAllProperties = () => {
-    window.open('https://www.idealista.com/', '_blank');
+    window.open('https://propiedades.gesttiona.org', '_blank');
   };
 
   return (
